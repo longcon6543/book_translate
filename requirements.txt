@@ -1,0 +1,6 @@
+anthropic>=0.40
+ebooklib>=0.18
+beautifulsoup4>=4.12
+openai>=1.40
+pymupdf>=1.24
+rapidocr-onnxruntime>=1.4; python_version < "3.13"

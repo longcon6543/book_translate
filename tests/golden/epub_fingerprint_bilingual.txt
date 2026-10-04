@@ -1,0 +1,5 @@
+title	[VI] A Short Book
+toc[0]	[VI] Chapter One
+toc[1]	[VI] Chapter Two
+doc	c1.xhtml	13f3f8032c6c7139
+doc	c2.xhtml	421fa0f1c85a3d67

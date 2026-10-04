@@ -1,0 +1,21 @@
+# môi trường
+.venv/
+__pycache__/
+*.pyc
+
+# sách nguồn và dữ liệu project: nặng, riêng tư, không thuộc về repo
+ebook/
+projects/
+*.pdf
+*.epub
+*.docx
+booktrans.zip
+
+# khóa API
+.env
+
+# rác của macOS Finder
+.DS_Store
+
+# rác của pytest
+.pytest_cache/
